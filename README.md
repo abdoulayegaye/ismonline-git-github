@@ -1,14 +1,16 @@
-# Project Name
-Brief description (1-2 sentences).
+# ISM Online Git GitHub
+Dans ce projet, nous allons apprendre comment pousser notre code local en ligne.
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+## Fonctionnalités
+- Creation du depot distant sur GitHub
+- Creation d'une branche
+- Switcher entre les branches
+- Cloner un projet
+- ...
 
-## Prerequisites
-Required installations/dependencies.
+## Prerequis
+Avoir des notions sur certaines commandes Git.
 
 ## Installation
 ```bash
-# Installation steps
+git clone nom_du_projet
